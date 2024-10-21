@@ -1,5 +1,5 @@
 # tianya-docs
-新增地址：https://drive.google.com/drive/folders/1UjxiP3OFQ_QlKrKoPrWdMZVFI80X-NlC
+
 ## 关于
 
 本repo收集全网爆火的天涯神贴200+篇，全部为不带水印的原始版本，并且包含了地产预言大神kk的全集。
